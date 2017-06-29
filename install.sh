@@ -3,6 +3,10 @@
 ## Make sure that you have a internet connection on your pi
 ## run this script as root
 
+# update && upgrade
+sudo apt-get update
+sudo apt-get dist-upgrade
+
 # git
 apt-get install git-all
 # ask for git name and email
